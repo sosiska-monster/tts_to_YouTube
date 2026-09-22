@@ -1,0 +1,67 @@
+{
+  "format_version": 1,
+  "model_sha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+  "source_voices_sha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+  "profiles_sha256": "784ca61035e795ae4e112fe98e5fa78f52faebb93802d17e27f93856e1725d13",
+  "characters": {
+    "girl_narrator": {
+      "source_voice": "af_heart",
+      "shape": [
+        510,
+        1,
+        256
+      ],
+      "tensor_sha256": "d583ccff3cdca2f7fae535cb998ac07e9fcb90f09737b9a41fa2734ec44a8f0b"
+    },
+    "karen": {
+      "source_voice": "af_sarah",
+      "shape": [
+        510,
+        1,
+        256
+      ],
+      "tensor_sha256": "4409fbc125afabacc615d94db5398d847006a737b0247d6892b7a9a0007a2f0a"
+    },
+    "submissive_girl": {
+      "source_voice": "af_bella",
+      "shape": [
+        510,
+        1,
+        256
+      ],
+      "tensor_sha256": "f69d836209b78eb8c66e75e3cda491e26ea838a3674257e9d4e5703cbaf55c8b"
+    },
+    "toxic_guy": {
+      "source_voice": "am_fenrir",
+      "shape": [
+        510,
+        1,
+        256
+      ],
+      "tensor_sha256": "c27989f741f7ee34d273a39d8a595cc0837d35f5ced9a29b7cc162614616df43"
+    },
+    "boyfriend": {
+      "source_voice": "am_eric:0.6+am_puck:0.4",
+      "shape": [
+        510,
+        1,
+        256
+      ],
+      "tensor_sha256": "ea799ac81c904622e07190cfbfab6293271b188742672d317947b37697460e93"
+    },
+    "authority": {
+      "source_voice": "am_eric:0.2+am_michael:0.8",
+      "shape": [
+        510,
+        1,
+        256
+      ],
+      "tensor_sha256": "a1405b6f12439336644d8300b398a5404fdaa61bd54ab03ac56b1f555227be84"
+    }
+  },
+  "sample_rate": 24000,
+  "kind": "length_conditioned_style_vectors",
+  "model_required": true,
+  "config_sha256": "c5bc7d68feca1c8076c24c5e3d90d45c5b1b21a7598104e8ad7b3f8b502757c8",
+  "bytes": 2883759
+}

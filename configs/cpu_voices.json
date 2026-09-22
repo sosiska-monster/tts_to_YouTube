@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "language": "en-us",
+  "characters": {
+    "girl_narrator": {
+      "voice": "af_heart",
+      "speed": 0.97,
+      "display_name": "Jess",
+      "side": "right"
+    },
+    "karen": {
+      "voice": "af_sarah",
+      "speed": 0.96,
+      "display_name": "Karen",
+      "side": "left"
+    },
+    "submissive_girl": {
+      "voice": "af_bella",
+      "speed": 0.95,
+      "display_name": "Bella",
+      "side": "left"
+    },
+    "toxic_guy": {
+      "voice": "am_fenrir",
+      "speed": 1.0,
+      "display_name": "Dave",
+      "side": "left"
+    },
+    "boyfriend": {
+      "voice": "am_puck",
+      "voice_blend": {
+        "am_eric": 0.6,
+        "am_puck": 0.4
+      },
+      "speed": 0.97,
+      "display_name": "Mark",
+      "side": "left"
+    },
+    "authority": {
+      "voice": "am_michael",
+      "voice_blend": {
+        "am_michael": 0.8,
+        "am_eric": 0.2
+      },
+      "speed": 0.95,
+      "display_name": "Admin",
+      "side": "left"
+    }
+  },
+  "emotion_control": "pacing_only_not_trained_emotional_conditioning",
+  "emotions": {
+    "neutral": {"speed": 1.0, "gap_ms": 380},
+    "joy": {"speed": 1.03, "gap_ms": 320},
+    "sadness": {"speed": 0.94, "gap_ms": 490},
+    "anger": {"speed": 1.02, "gap_ms": 300},
+    "fear": {"speed": 1.0, "gap_ms": 400},
+    "disgust": {"speed": 0.98, "gap_ms": 410},
+    "surprise": {"speed": 1.02, "gap_ms": 380}
+  }
+}

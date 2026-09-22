@@ -1,0 +1,1186 @@
+
+# 2026-09-21 23:16:19.167710
++y
+
+# 2026-09-21 23:32:00.509800
++/model openai/opencode-free/deepseek-v4-flash-free
+
+# 2026-09-21 23:32:35.210735
++что ты видишь? 
+
+# 2026-09-21 23:35:10.269298
++ocx start
+
+# 2026-09-21 23:38:15.703546
++y
+
+# 2026-09-21 23:39:05.506592
++что ты видешь в этом каталоге
+
+# 2026-09-21 23:39:23.479366
++y
+
+# 2026-09-21 23:39:23.484357
++/run dir
+
+# 2026-09-21 23:39:23.484357
++/run dir
+
+# 2026-09-21 23:39:29.193230
++y
+
+# 2026-09-21 23:39:32.039952
++/run dir /s
+
+# 2026-09-21 23:39:32.039952
++/run dir /s
+
+# 2026-09-21 23:39:34.492238
++y
+
+# 2026-09-21 23:41:19.665999
++/exit
+
+# 2026-09-21 23:55:16.360398
++n
+
+# 2026-09-21 23:55:21.729038
++привет
+
+# 2026-09-21 23:58:49.779257
++(Set-ExecutionPolicy -Scope Process -ExecutionPolicy RemoteSigned) ; (& c:\Users\Redmi\Desktop\incubator\tts_to_YouTube\venv_cpu\Scripts\Activate.ps1)
+
+# 2026-09-22 00:04:11.822436
++проект нужен для создании идеального неотличимого от настоящего голосов разных персонажей с разными эмоциями, файл voice_engine.py
+
+# 2026-09-22 00:04:46.716161
++т
+
+# 2026-09-22 00:04:48.958685
++n
+
+# 2026-09-22 00:07:11.467449
++проект нужен для создании идеального неотличимого от настоящего голосов разных персонажей с разными эмоциями, файл cpu_voice_engine.py с предпроцессом в story_preprocessor.py и историей в story.json. твоя задача: вычистить все лишние файлы, кроме make_video.py, переименновать файл в voice_engine.py и добиться чтобы голоса не были отличимы от настоящих
+
+# 2026-09-22 00:08:06.584832
++c:\Users\Redmi\Desktop\incubator\tts_to_YouTube\ всё в этом пути, но make_video.py не трогай и не читай
+
+# 2026-09-22 00:08:41.942255
++c:\Users\Redmi\Desktop\incubator\tts_to_YouTube\cpu_voice_engine.py
+
+# 2026-09-22 00:09:04.235395
++сам прочитай и сам создай
+
+# 2026-09-22 00:09:43.791317
++[
++  {
++    "sender_id": "girl_narrator",
++    "emotion": "neutral",
++    "text": "Hello everyone. Welcome to our cozy neighborhood chat. It's Friday evening."
++  },
++  {
++    "sender_id": "karen",
++    "emotion": "anger",
++    "text": "Who parked their filthy car in my personal spot again?! I demand an answer immediately!"
++  },
++  {
++    "sender_id": "submissive_girl",
++    "emotion": "fear",
++    "text": "Oh... I'm so sorry, my boyfriend and I parked there. We had nowhere else to park, your tone is really scaring me..."
++  },
++  {
++    "sender_id": "toxic_guy",
++    "emotion": "joy",
++    "text": "Hahaha! The show is starting! Go Karen, destroy them with facts!"
++  },
++  {
++    "sender_id": "boyfriend",
++    "emotion": "anger",
++    "text": "Hey, watch your mouth! And don't you dare yell at my girlfriend, we'll move the car in five minutes!"
++  },
++  {
++    "sender_id": "authority",
++    "emotion": "neutral",
++    "text": "Dear residents, I remind you of the need to observe the rules of politeness in the neighborhood chat."
++  },
++  {
++    "sender_id": "girl_narrator",
++    "emotion": "joy",
++    "text": "I just love it when drama starts here. I've already made tea and grabbed some popcorn!"
++  },
++  {
++    "sender_id": "karen",
++    "emotion": "disgust",
++    "text": "It just makes me sick how all of you disregard the rules. Absolutely no respect for other people's property."
++  },
++  {
++    "sender_id": "toxic_guy",
++    "emotion": "neutral",
++    "text": "I honestly don't care about your parking squabbles at all, I walk."
++  },
++  {
++    "sender_id": "submissive_girl",
++    "emotion": "sadness",
++    "text": "I'm almost crying... why so much aggression over a piece of asphalt?"
++  },
++  {
++    "sender_id": "boyfriend",
++    "emotion": "disgust",
++    "text": "What a disgrace. Grown adults, yet you're behaving disgustingly, like savages."
++  },
++  {
++    "sender_id": "authority",
++    "emotion": "disgust",
++    "text": "Your behavior violates all norms of decency. Reading these insults is absolutely unbearable."
++  },
++  {
++    "sender_id": "girl_narrator",
++    "emotion": "surprise",
++    "text": "Wow, no way! I didn't expect the admin to react so fast on a Friday evening."
++  },
++  {
++    "sender_id": "karen",
++    "emotion": "surprise",
++    "text": "Do you seriously think I'm going to let this go and not call a tow truck right now?!"
++  },
++  {
++    "sender_id": "toxic_guy",
++    "emotion": "surprise",
++    "text": "Holy cow, she actually dropped a photo with the license plates and is calling someone. What a twist."
++  },
++  {
++    "sender_id": "submissive_girl",
++    "emotion": "surprise",
++    "text": "Really? You're ready to call the police over a five-minute delay? I'm in shock!"
++  },
++  {
++    "sender_id": "boyfriend",
++    "emotion": "surprise",
++    "text": "What do you mean the tow truck is here? Are you out of your mind, how did they get here so fast?!"
++  },
++  {
++    "sender_id": "authority",
++    "emotion": "surprise",
++    "text": "Unbelievable... You managed to break three chat rules in one minute. That is an absolute record."
++  },
++  {
++    "sender_id": "girl_narrator",
++    "emotion": "fear",
++    "text": "It seems they're about to move from words to actual fighting in the yard, I'm getting really uncomfortable..."
++  },
++  {
++    "sender_id": "karen",
++    "emotion": "fear",
++    "text": "Wait, why is this tow truck hooking up my car?! What's going on, stop it!"
++  },
++  {
++    "sender_id": "toxic_guy",
++    "emotion": "fear",
++    "text": "Hey, hey, wait, he hooked my bike that was standing nearby too! Stop him right now!"
++  },
++  {
++    "sender_id": "submissive_girl",
++    "emotion": "neutral",
++    "text": "I just want to say that we've already reparked on the next street. Our incident is resolved."
++  },
++  {
++    "sender_id": "boyfriend",
++    "emotion": "fear",
++    "text": "Please don't tell me they scratched our bumper during this mess while we were pulling out..."
++  },
++  {
++    "sender_id": "authority",
++    "emotion": "fear",
++    "text": "If this situation reaches the management company, they'll revoke our right to self-governance. That's scary."
++  },
++  {
++    "sender_id": "girl_narrator",
++    "emotion": "disgust",
++    "text": "Ew, someone sent a photo of a dirty puddle where the car was parked. How gross."
++  },
++  {
++    "sender_id": "karen",
++    "emotion": "sadness",
++    "text": "My poor, poor car... no one in this building appreciates me or sympathizes with my grief."
++  },
++  {
++    "sender_id": "toxic_guy",
++    "emotion": "sadness",
++    "text": "Damn, my bike is being taken to the impound lot. How am I supposed to deliver orders now, I'm out of a job..."
++  },
++  {
++    "sender_id": "submissive_girl",
++    "emotion": "disgust",
++    "text": "Oh, why are you swearing in voice messages, it's so disgusting to listen to."
++  },
++  {
++    "sender_id": "boyfriend",
++    "emotion": "sadness",
++    "text": "Because of this nonsense, we are officially late for our favorite movie. The evening is ruined."
++  },
++  {
++    "sender_id": "authority",
++    "emotion": "sadness",
++    "text": "I'm so tired of constantly having to be the free policeman here. I'm giving up."
++  },
++  {
++    "sender_id": "girl_narrator",
++    "emotion": "sadness",
++    "text": "Sigh, we used to be friendly neighbors, grilling BBQ together in the backyard..."
++  },
++  {
++    "sender_id": "karen",
++    "emotion": "neutral",
++    "text": "I have written an official complaint and sent it to the chairman."
++  },
++  {
++    "sender_id": "toxic_guy",
++    "emotion": "anger",
++    "text": "Listen here, you complainer! Because of your hysteria I'm losing money on my bike, I'm coming down to you right now!"
++  },
++  {
++    "sender_id": "submissive_girl",
++    "emotion": "anger",
++    "text": "Stop pressuring us! We said we moved the car, leave us alone immediately!"
++  },
++  {
++    "sender_id": "boyfriend",
++    "emotion": "neutral",
++    "text": "We uploaded the dashcam video to the cloud, it clearly shows who was parked where."
++  },
++  {
++    "sender_id": "authority",
++    "emotion": "anger",
++    "text": "I demand you stop this circus immediately, or I will permanently ban the instigators from the chat!"
++  },
++  {
++    "sender_id": "girl_narrator",
++    "emotion": "anger",
++    "text": "Hey, don't you dare drag me into your squabbles, I just sent a funny sticker!"
++  },
++  {
++    "sender_id": "karen",
++    "emotion": "joy",
++    "text": "Ha! It turns out the tow truck took an abandoned car from the next yard, and mine is still here! What a joy!"
++  },
++  {
++    "sender_id": "toxic_guy",
++    "emotion": "disgust",
++    "text": "You all are so insufferable and toxic here, this building just makes me sick."
++  },
++  {
++    "sender_id": "submissive_girl",
++    "emotion": "joy",
++    "text": "Oh, how wonderful that the conflict is finally resolved and everyone is safe!"
++  },
++  {
++    "sender_id": "boyfriend",
++    "emotion": "joy",
++    "text": "Hooray, the bumper is intact, we're making it to the last screening! We can finally breathe out."
++  },
++  {
++    "sender_id": "authority",
++    "emotion": "joy",
++    "text": "Great news. The tow truck left, everyone calmed down, the chat is returning to normal operation."
++  },
++  {
++    "sender_id": "girl_narrator",
++    "emotion": "neutral",
++    "text": "And with that, our Friday story comes to an end. Good night, dear neighbors."
++  }
++]"""Linguistic preprocessor for story text.
++
++Layer 2 of the 3-layer architecture:
++  1. Story (story.json) -> 2. Preprocessor (story_preprocessor.py) -> 3. Voice Engine (cpu_voice_engine.py)
++
++Responsibilities:
++  - Text normalization: numbers, currencies ($/£/€), 12-hour clock times, abbreviations, units, contractions.
++  - Safe removal of unsupported stage directions ([sigh], (sigh), leading sigh).
++  - Phonetic dictionary overrides (Hooray -> həɹˈeɪ) preserving complete utterances.
++  - Emotional pacing and dramatic breath transition detection.
++  - Generates a validated execution plan ready for acoustic rendering.
++"""
++from __future__ import annotations
++
++import argparse
++import json
++from pathlib import Path
++import re
++import unicodedata
++from typing import Any, Dict, List, Optional, Tuple
++
++ROOT = Path(__file__).resolve().parent
++CONFIG_PATH = ROOT / "configs" / "cpu_voices.json"
++BREATH_EMOTIONS = {"anger", "fear", "sadness", "surprise"}
++
++
++def integer_words(value: int) -> str:
++    """Deterministic en-US cardinal formatter; no external dependencies."""
++    n = int(value)
++    if not 0 <= n < 10**12:
++        raise ValueError("Number outside supported range")
++    ones = ('zero one two three four five six seven eight nine ten eleven twelve '
++            'thirteen fourteen fifteen sixteen seventeen eighteen nineteen').split()
++    tens = 'zero ten twenty thirty forty fifty sixty seventy eighty ninety'.split()
++    if n < 20:
++        return ones[n]
++    if n < 100:
++        return tens[n // 10] + ('-' + ones[n % 10] if n % 10 else '')
++    for scale, name in [(10**9, 'billion'), (10**6, 'million'), (1000, 'thousand'), (100, 'hundred')]:
++        if n >= scale:
++            return integer_words(n // scale) + ' ' + name + (' ' + integer_words(n % scale) if n % scale else '')
++    return str(n)
++
++
++def money_words(match: re.Match) -> str:
++    symbol, amount = match.group(1), match.group(2).replace(',', '')
++    whole, _, fraction = amount.partition('.')
++    major, minor = {'$': ('dollar', 'cent'), '£': ('pound', 'penny'), '€': ('euro', 'cent')}[symbol]
++    n, cents = int(whole), int(fraction.ljust(2, '0') or '0')
++    result = integer_words(n) + ' ' + major + ('' if n == 1 else 's')
++    if cents:
++        minor_plural = 'pence' if minor == 'penny' else minor + 's'
++        result += ' and ' + integer_words(cents) + ' ' + (minor if cents == 1 else minor_plural)
++    return result
++
++
++def clock_words(match: re.Match) -> str:
++    hour, minute, period = int(match.group(1)), int(match.group(2)), match.group(3)
++    if not 1 <= hour <= 12 or not 0 <= minute <= 59:
++        raise ValueError('Invalid 12-hour clock time')
++    tail = (" o'clock" if minute == 0 else ' oh ' + integer_words(minute) if minute < 10
++            else ' ' + integer_words(minute))
++    return integer_words(hour) + tail + ' ' + ' '.join(period.upper().replace('.', ''))
++
++
++def normalize_text(text: str) -> str:
++    """Normalize en-US dialogue text without phonetic distortion or dropped clauses."""
++    if not isinstance(text, str) or not text.strip():
++        raise ValueError('Text must be a non-empty string')
++    if len(text) > 2000:
++        raise ValueError('Text exceeds 2000 characters; split into dialogue lines')
++    if any(unicodedata.category(c) in {'Cf', 'Cs'} for c in text):
++        raise ValueError('Unsupported invisible or surrogate character in text')
++    if any(c.isalpha() and 'LATIN' not in unicodedata.name(c, '') for c in text):
++        raise ValueError('This configured speech pipeline supports English text only')
++    text = text.replace('\u2019', "'").replace('\u2018', "'").replace('\u2026', '...')
++    text = text.replace('\u201c', '"').replace('\u201d', '"').replace('\u00a0', ' ')
++    if re.search(r'[\u0400-\u052f\u3040-\u30ff\u3400-\u9fff]', text):
++        raise ValueError('This configured speech pipeline supports English text only')
++    if any(unicodedata.category(c) == 'Cc' and c not in '\t\r\n' for c in text):
++        raise ValueError('Unsupported control character in text')
++    if re.search(r'\[(?:laugh\w*|chuckl\w*|sob\w*|cry\w*|gasp\w*|scream\w*|whisper\w*)\]', text, re.I):
++        raise ValueError('Non-speech direction is unsupported; a real recorded vocalization is required')
++    
++    # Strip leading stage-direction sigh safely without corrupting Sight/Sighing/Sighs
++    text = re.sub(r'^\s*(?:\[sigh\]|\(sigh\)|sigh\b(?=\s*[,.:;!?-]|\s*$))\s*[,.:;!?-]*\s*', '', text, flags=re.I)
++    if re.search(r'\[[^\]]*\]|\((?:sigh|laugh\w*|sob\w*|cry\w*|gasp\w*|scream\w*|whisper\w*)\)', text, re.I):
++        raise ValueError('Unsupported stage direction; provide spoken text or a recorded vocalization')
++    for amount in re.findall(r'[$£€]\s*([\d,.]+)', text):
++        if not re.fullmatch(r'(?:\d{1,3}(?:,\d{3})+|\d+)(?:\.\d{1,2})?', amount.rstrip('.,')):
++            raise ValueError('Ambiguous currency amount')
++    text = re.sub(r'(?<!\w)([$£€])((?:\d{1,3}(?:,\d{3})+|\d+)(?:\.[0-9]{1,2})?)(?!\d|[.,]\d)', money_words, text)
++    text = re.sub(r'\b(\d{1,2}):(\d{2})\s*([AP]\.?M)\b', clock_words, text, flags=re.I)
++    text = re.sub(r'\b(\d+(?:\.\d+)?)%', lambda m: m[1] + ' percent', text)
++    text = re.sub(r'\b(\d+(?:\.\d+)?)\s*°\s*([CF])\b',
++                  lambda m: m[1] + ' degrees ' + ('Celsius' if m[2] == 'C' else 'Fahrenheit'), text)
++    text = re.sub(r'\b(\d+(?:\.\d+)?)\s*(kg|km|cm|mm)\b',
++                  lambda m: m[1] + ' ' + {'kg': 'kilograms', 'km': 'kilometers', 'cm': 'centimeters', 'mm': 'millimeters'}[m[2]], text)
++    text = re.sub(r'\b(Dr|Mr|Mrs|Ms)\.(?=\s+[A-Z][a-z])',
++                  lambda m: {'Dr': 'Doctor', 'Mr': 'Mister', 'Mrs': 'Missus', 'Ms': 'Miz'}[m[1]], text)
++    expansions = {'BBQ': 'barbecue', 'CPU': 'C P U', 'GPU': 'G P U', 'API': 'A P I',
++                  'USB': 'U S B', 'AI': 'A I', 'URL': 'U R L', 'HTTP': 'H T T P',
++                  'HTTPS': 'H T T P S', 'TLS': 'T L S', 'PDF': 'P D F', 'ID': 'I D',
++                  'SMS': 'S M S', 'GPS': 'G P S', 'FBI': 'F B I', 'UK': 'U K', 'USA': 'U S A'}
++    text = re.sub(r'\b(?:' + '|'.join(sorted(expansions, key=len, reverse=True)) + r')\b',
++                  lambda m: expansions[m.group()], text)
++    text = re.sub(r'\b(?:ha){2,}\b', lambda m: ' '.join(['Ha'] * (len(m.group()) // 2)), text, flags=re.I)
++    text = re.sub(r'[!?]{2,}', lambda m: '?' if '?' in m.group() else '!', text)
++    text = re.sub(r'\s+', ' ', text).strip()
++    if not text or not re.search(r'[A-Za-z0-9]', text):
++        raise ValueError('Text contains no supported speech')
++    return text
++
++
++def split_synthesis_text(text: str, max_chars: int = 0) -> List[str]:
++    """Split already-normalized text losslessly; 0 keeps legacy synthesis.
++
++    Prefer sentence/clause boundaries in the latter half of the window, then
++    whitespace. Never split a word or add punctuation. This bounds text windows,
++    NOT phoneme counts or total process RAM. Do not normalize expanded text again.
++    """
++    if isinstance(max_chars, bool) or not isinstance(max_chars, int) or (max_chars != 0 and not 80 <= max_chars <= 2000):
++        raise ValueError('max_chunk_chars must be 0 or an integer from 80 to 2000')
++    if not isinstance(text, str) or not text.strip():
++        raise ValueError('Cannot split empty text')
++    if not max_chars or len(text) <= max_chars:
++        return [text]
++    parts, remaining = [], text
++    while len(remaining) > max_chars:
++        boundaries = [m for m in re.finditer(r'\s+', remaining) if 0 < m.start() <= max_chars]
++        if not boundaries:
++            raise ValueError('A word exceeds max_chunk_chars; refusing to truncate it')
++        preferred = [m for m in boundaries if m.start() >= max_chars // 2]
++        sentence = [m for m in preferred if remaining[:m.start()].rstrip('\"\')').endswith(('.', '!', '?'))]
++        clause = [m for m in preferred if remaining[:m.start()].rstrip('\"\')').endswith((',', ';', ':'))]
++        cut = (sentence or clause or boundaries)[-1]
++        parts.append(remaining[:cut.start()])
++        remaining = remaining[cut.end():]
++    if remaining:
++        parts.append(remaining)
++    if ' '.join(parts).split() != text.split() or any(len(p) > max_chars for p in parts):
++        raise ValueError('Synthesis split changed words or exceeded its limit')
++    return parts
++
++
++def pronunciation_override(tokenizer_or_tts: Any, text: str, language: str = 'en-us', include_ew: bool = False, include_laughter: bool = True) -> Tuple[str, bool, List[Dict[str, Any]]]:
++    """Word-level fixes; optional stylized laughter is NOT a real vocal performance."""
++    fixes = []
++    has_hooray = bool(re.search(r'\bHooray\b', text, re.I))
++    has_ew = bool(include_ew and re.search(r'\bEw\b', text, re.I))
++    has_laugh = bool(include_laughter and re.search(r'\b(?:ha)(?:\s+ha)+\b|\b(?:ha){2,}\b|\b(?:he){2,}\b', text, re.I))
++    if not has_hooray and not has_ew and not has_laugh:
++        return text, False, fixes
++
++    tokenizer = getattr(tokenizer_or_tts, 'tokenizer', tokenizer_or_tts)
++    phonemes = tokenizer.phonemize(text, language)
++    applied = False
++
++    if has_ew:
++        if re.search(r'\byou\b', text, re.I):
++            fixes.append({'word': 'Ew', 'status': 'not_applied_ambiguity_with_you'})
++        else:
++            fixes.append({'word': 'Ew', 'status': 'not_applied_default'})
++
++    if has_hooray:
++        word, old, new = 'Hooray', 'hˈɔːɹeɪ', 'həɹˈeɪ'
++        count = len(re.findall(r'\b' + word + r'\b', text, re.I))
++        pattern = r'(?<!\S)' + re.escape(old) + r'(?=[\s,.!?;:]|$)'
++        if count and len(re.findall(pattern, phonemes)) == count:
++            revised = re.sub(pattern, new, phonemes)
++            if hasattr(tokenizer, 'known') and tokenizer.known(revised) != revised:
++                raise ValueError('Pronunciation override contains unsupported symbols')
++            fixes.append({'word': word, 'before': old, 'after': new, 'count': count})
++            phonemes = revised
++            applied = True
++
++    if has_laugh:
++        # Experimental phonetic approximation, NOT natural recorded laughter.
++        # Preserve the full syllable count instead of silently truncating it.
++        pattern_ha = r'(?<!\S)(?:h[ˈˌ]?ɑː\s*){2,}[!?,.]*(?=[\s]|$)'
++        pattern_he = r'(?<!\S)(?:h[ˈˌ]?ɛ\s*){2,}[!?,.]*(?=[\s]|$)'
++
++        def laugh_replacer_ha(m):
++            s = m.group(0)
++            n = len(re.findall(r'h[ˈˌ]?ɑː', s))
++            n = max(2, n)
++            return 'hˈʌ' + 'hʌ' * (n - 1) + ','
++
++        def laugh_replacer_he(m):
++            s = m.group(0)
++            n = len(re.findall(r'h[ˈˌ]?ɛ', s))
++            n = max(2, n)
++            return 'hˈɛ' + 'hɛ' * (n - 1) + ','
++
++        if re.search(pattern_ha, phonemes):
++            revised = re.sub(pattern_ha, laugh_replacer_ha, phonemes)
++            n_count = len(re.findall(r'h[ˈˌ]?ɑː', re.search(pattern_ha, phonemes).group(0)))
++            fixes.append({'word': 'Laughter', 'syllables': n_count, 'style': 'dynamic_caret'})
++            phonemes = revised
++            applied = True
++        elif re.search(pattern_he, phonemes):
++            revised = re.sub(pattern_he, laugh_replacer_he, phonemes)
++            n_count = len(re.findall(r'h[ˈˌ]?ɛ', re.search(pattern_he, phonemes).group(0)))
++            fixes.append({'word': 'Laughter', 'syllables': n_count, 'style': 'dynamic_eh'})
++            phonemes = revised
++            applied = True
++
++    # If no substitution was made, leave orthography for the engine to phonemize.
++    return (phonemes if applied else text), applied, fixes
++
++
++def preprocess_story(story_data: List[Dict[str, Any]], config: Dict[str, Any]) -> List[Dict[str, Any]]:
++    """Transform raw story lines into fully validated execution plan items."""
++    if not isinstance(story_data, list) or not story_data:
++        raise ValueError('Story must be a non-empty list')
++    chars_cfg = config.get("characters", {})
++    emotions_cfg = config.get("emotions", {})
++
++    plan = []
++    for idx, item in enumerate(story_data):
++        if not isinstance(item, dict):
++            raise ValueError(f'Line {idx}: expected an object')
++        char = item.get("sender_id")
++        if not char or char not in chars_cfg:
++            raise ValueError(f"Line {idx}: Unknown character '{char}'")
++        
++        emotion = item.get("emotion", "neutral")
++        if emotion not in emotions_cfg:
++            raise ValueError(f"Line {idx}: Unknown emotion '{emotion}'")
++        
++        raw_text = item.get("text", "")
++        clean_text = normalize_text(raw_text)
++        
++        char_info = chars_cfg[char]
++        pacing_info = emotions_cfg[emotion]
++        base_speed = float(char_info.get("speed", 1.0))
++        emotion_speed = float(pacing_info.get("speed", 1.0))
++        final_speed = float(max(0.5, min(2.0, base_speed * emotion_speed)))
++        
++        # Dramatic breath triggered before emotional phrases (except first line)
++        needs_breath = (emotion in BREATH_EMOTIONS) and (idx > 0)
++        
++        # Display name & UI side for video integration
++        display_name = item.get("display_name", char_info.get("display_name", char.replace("_", " ").title()))
++        side = item.get("side", char_info.get("side", "right" if char == "girl_narrator" else "left"))
++        
++        plan_item = {
++            "line_index": idx,
++            "sender_id": char,
++            "display_name": display_name,
++            "side": side,
++            "emotion": emotion,
++            "raw_text": raw_text,
++            "clean_text": clean_text,
++            "speed": round(final_speed, 4),
++            "gap_ms": pacing_info.get("gap_ms", 380),
++            "needs_breath": needs_breath,
++            "voice_target": ("+".join(f"{v}:{w}" for v, w in sorted(char_info["voice_blend"].items()))
++                             if "voice_blend" in char_info else char_info.get("voice", char))
++        }
++        plan.append(plan_item)
++    return plan
++
++
++def main():
++    parser = argparse.ArgumentParser(description="Preprocess story dialogue into execution plan.")
++    parser.add_argument("story", type=Path, nargs="?", default=ROOT / "story.json")
++    parser.add_argument("-o", "--output", type=Path, default=ROOT / "output" / "execution_plan.json")
++    parser.add_argument("-c", "--config", type=Path, default=CONFIG_PATH)
++    args = parser.parse_args()
++    
++    with open(args.story, "r", encoding="utf-8") as f:
++        story = json.load(f)
++    with open(args.config, "r", encoding="utf-8") as f:
++        config = json.load(f)
++        
++    plan = preprocess_story(story, config)
++    args.output.parent.mkdir(parents=True, exist_ok=True)
++    with open(args.output, "w", encoding="utf-8") as f:
++        json.dump(plan, f, indent=2, ensure_ascii=False)
++    print(f"[✓] Preprocessed {len(plan)} story lines -> {args.output}")
++
++
++if __name__ == "__main__":
++    main()
++"""CPU-only, offline speech runtime. Does not import the legacy GPU engine.
++
++Examples:
++  python cpu_voice_engine.py --bake
++  python cpu_voice_engine.py --preview --threads 2
++  python cpu_voice_engine.py --threads 2
++  python cpu_voice_engine.py --text "Hello, everyone." --character girl_narrator
++
++The baked NPZ contains voice conditioning, NOT a replacement for the ONNX model.
++Emotion labels control restrained pacing only; actor-like emotions are not promised.
++"""
++from __future__ import annotations
++
++import argparse
++import hashlib
++import importlib.metadata
++import json
++import os
++from pathlib import Path
++import platform
++import re
++import sys
++import time
++import wave
++import shutil
++import threading
++import uuid
++
++import numpy as np
++
++ROOT = Path(__file__).resolve().parent
++CONFIG = ROOT / "configs" / "cpu_voices.json"
++MODEL = ROOT / "models" / "cpu_audio" / "kokoro-v1.0.onnx"
++SOURCE_VOICES = MODEL.parent / "voices-v1.0.bin"
++PROFILE_DIR = ROOT / "voice_profiles" / "cpu"
++OUTPUT = ROOT / "output"
++SAMPLE_RATE = 24000
++PREVIEW_LINES = [0, 1, 2, 3, 4, 5, 19, 30]
++
++from story_preprocessor import normalize_text, pronunciation_override, preprocess_story, BREATH_EMOTIONS, split_synthesis_text
++
++
++def read_json(path):
++    return json.loads(Path(path).read_text(encoding="utf-8-sig"))
++
++
++def write_json(path, data):
++    path = Path(path)
++    path.parent.mkdir(parents=True, exist_ok=True)
++    tmp = path.with_name(path.name + '.' + uuid.uuid4().hex + '.tmp')
++    tmp.write_text(json.dumps(data, ensure_ascii=False, indent=2, allow_nan=False), encoding="utf-8")
++    tmp.replace(path)
++
++
++def file_hash(path):
++    digest = hashlib.sha256()
++    with Path(path).open("rb") as source:
++        for block in iter(lambda: source.read(1024 * 1024), b""):
++            digest.update(block)
++    return digest.hexdigest()
++
++
++def content_hash(data):
++    return hashlib.sha256(json.dumps(data, sort_keys=True, ensure_ascii=False).encode()).hexdigest()
++
++
++def pronunciation_input(tts, text, language, include_ew=False):
++    """Bridge for backward compatibility; calls story_preprocessor."""
++    return pronunciation_override(tts, text, language, include_ew=include_ew)
++
++
++def trim_outer_silence(audio, head_ms=80, tail_ms=140):
++    """Remove ONLY outer samples below -60 dBFS, retaining consonant safety guards.
++
++    Interior pauses and all samples at/above the threshold are kept byte-for-byte.
++    """
++    if not all(np.isfinite(v) and v >= 0 for v in (head_ms, tail_ms)):
++        raise ValueError('Silence guards must be finite and non-negative')
++    data = np.asarray(audio, dtype=np.float32)
++    if data.ndim != 1 or not len(data) or not np.isfinite(data).all():
++        raise ValueError('Invalid audio for trimming')
++    active = np.flatnonzero(np.abs(data) >= .001)
++    if not len(active):
++        return data.copy(), {'head_samples': 0, 'tail_samples': 0}
++    start = max(0, int(active[0]) - round(head_ms * SAMPLE_RATE / 1000))
++    end = min(len(data), int(active[-1]) + 1 + round(tail_ms * SAMPLE_RATE / 1000))
++    return data[start:end].copy(), {'head_samples': start, 'tail_samples': len(data) - end}
++
++
++def generate_room_presence(length_samples, level_dbfs=-68.0, sr=SAMPLE_RATE):
++    """Subtle pink-like ambient room tone so pauses don't sound like dead digital cuts."""
++    if length_samples <= 0:
++        return np.zeros(0, dtype=np.float32)
++    white = np.random.normal(0, 1, length_samples).astype(np.float32)
++    pink = np.zeros_like(white)
++    state = 0.0
++    for i in range(len(white)):
++        state = 0.95 * state + 0.05 * white[i]
++        pink[i] = state
++    rms = np.sqrt(np.mean(pink**2))
++    target_rms = 10 ** (level_dbfs / 20.0)
++    if rms > 0:
++        pink = pink * (target_rms / rms)
++    ramp_n = min(int(sr * 0.01), length_samples // 2)
++    if ramp_n > 0:
++        fade = 0.5 * (1 - np.cos(np.pi * np.linspace(0, 1, ramp_n)))
++        pink[:ramp_n] *= fade
++        pink[-ramp_n:] *= fade[::-1]
++    return pink.astype(np.float32)
++
++
++def generate_breath(duration_ms=150, level_dbfs=-52.0, sr=SAMPLE_RATE, rng=None):
++    """Optional synthetic air effect, not a recording of a human breath."""
++    n_samples = int(sr * duration_ms / 1000)
++    if n_samples <= 0:
++        return np.zeros(0, dtype=np.float32)
++    rng = rng if rng is not None else np.random.default_rng(0)
++    noise = rng.normal(0, 1, n_samples).astype(np.float32)
++    filtered = np.zeros_like(noise)
++    state = 0.0
++    for i in range(n_samples):
++        state = 0.7 * state + 0.3 * noise[i]
++        filtered[i] = state
++    rise_idx = int(n_samples * 0.7)
++    env = np.zeros(n_samples, dtype=np.float32)
++    env[:rise_idx] = 0.5 * (1 - np.cos(np.pi * np.linspace(0, 1, rise_idx)))
++    env[rise_idx:] = 0.5 * (1 + np.cos(np.pi * np.linspace(0, 1, n_samples - rise_idx)))
++    breath = filtered * env
++    rms = np.sqrt(np.mean(breath**2))
++    target_rms = 10 ** (level_dbfs / 20.0)
++    if rms > 0:
++        breath = breath * (target_rms / rms)
++    return breath.astype(np.float32)
++
++
++def apply_analog_warmth(audio, drive=0.06):
++    """Optional symmetric saturation; not a naturalness/emotion enhancement."""
++    x = np.asarray(audio, dtype=np.float32)
++    if x.ndim != 1 or not len(x) or not np.isfinite(x).all():
++        raise ValueError('Invalid audio for saturation')
++    if not np.isfinite(drive) or not 0 <= drive <= 1:
++        raise ValueError('drive must be finite and between 0 and 1')
++    y = np.tanh(x * (1.0 + drive))
++    out = (1 - drive) * x + drive * y
++    peak = np.max(np.abs(out))
++    if peak > 10**(-1/20):
++        out = out * (10**(-1/20) / peak)
++    return out.astype(np.float32)
++
++
++def get_voice_spec_label(spec):
++    if "voice_blend" in spec and isinstance(spec["voice_blend"], dict):
++        return "+".join(f"{v}:{w}" for v, w in sorted(spec["voice_blend"].items()))
++    return str(spec.get("voice", ""))
++
++
++def validate_config(cfg):
++    characters = cfg.get("characters", {})
++    if not characters:
++        raise ValueError("No characters configured")
++    for name, entry in characters.items():
++        if not re.fullmatch(r"[a-zA-Z0-9_]+", name):
++            raise ValueError(f"Invalid character identifier: {name}")
++        if not 0.5 <= float(entry["speed"]) <= 2.0:
++            raise ValueError(f"Invalid character speed: {name}")
++        if "voice" not in entry and "voice_blend" not in entry:
++            raise ValueError(f"Character {name} must have 'voice' or 'voice_blend'")
++        if "voice_blend" in entry:
++            blend = entry['voice_blend']
++            if not isinstance(blend, dict) or not blend:
++                raise ValueError(f'Empty or invalid voice blend: {name}')
++            weights = list(blend.values())
++            if any(not isinstance(w, (int, float)) or not np.isfinite(w) or w < 0 for w in weights):
++                raise ValueError(f'Invalid blend weights: {name}')
++            if not np.isclose(sum(weights), 1.0, atol=1e-6, rtol=0):
++                raise ValueError(f'Blend weights must sum to one: {name}')
++    if "neutral" not in cfg.get("emotions", {}):
++        raise ValueError("Missing neutral emotion")
++    for emotion in cfg["emotions"].values():
++        if not 0.5 <= float(emotion["speed"]) <= 2.0 or not 0 <= emotion["gap_ms"] <= 5000:
++            raise ValueError("Invalid emotion pacing")
++    return cfg
++
++
++def bake_profiles(config_path=CONFIG, source_path=SOURCE_VOICES, profile_dir=PROFILE_DIR, model_path=MODEL):
++    """Export the selected voice matrices (including dynamic blends); no GPU needed."""
++    cfg = validate_config(read_json(config_path))
++    profile_dir = Path(profile_dir)
++    profile_dir.mkdir(parents=True, exist_ok=True)
++    tensors, metadata = {}, {}
++    with np.load(source_path, allow_pickle=False) as source:
++        for character, spec in cfg["characters"].items():
++            names = spec['voice_blend'] if 'voice_blend' in spec else [spec['voice']]
++            if any(v not in source for v in names):
++                raise ValueError(f'Unknown source voice for {character}')
++            if "voice_blend" in spec and isinstance(spec["voice_blend"], dict):
++                array = sum(float(w) * np.asarray(source[v], dtype=np.float32) for v, w in spec["voice_blend"].items())
++            else:
++                array = np.asarray(source[spec["voice"]], dtype=np.float32)
++            if array.shape != (510, 1, 256) or not np.isfinite(array).all():
++                raise ValueError(f"Bad voice matrix: {character}: {array.shape}")
++            tensors[character] = array.astype(np.float32)
++            metadata[character] = {"source_voice": get_voice_spec_label(spec), "shape": list(array.shape),
++                                   "tensor_sha256": hashlib.sha256(array.tobytes()).hexdigest()}
++    target = profile_dir / "characters.npz"
++    with target.with_suffix(".tmp").open("wb") as f:
++        np.savez_compressed(f, **tensors)
++    target.with_suffix(".tmp").replace(target)
++    manifest = {"format_version": 1, "model_sha256": file_hash(model_path),
++                "source_voices_sha256": file_hash(source_path),
++                "profiles_sha256": file_hash(target), "characters": metadata,
++                "sample_rate": SAMPLE_RATE, "kind": "length_conditioned_style_vectors",
++                "model_required": True, "config_sha256": file_hash(config_path),
++                "bytes": target.stat().st_size}
++    write_json(profile_dir / "manifest.json", manifest)
++    return manifest
++
++
++def read_wav(path):
++    with wave.open(str(path), "rb") as f:
++        if (f.getnchannels(), f.getsampwidth(), f.getframerate()) != (1, 2, SAMPLE_RATE):
++            raise ValueError(f"Expected mono PCM16/{SAMPLE_RATE}: {path}")
++        return np.frombuffer(f.readframes(f.getnframes()), dtype="<i2").astype(np.float32) / 32768
++
++
++def write_wav(path, audio):
++    audio = np.asarray(audio, dtype=np.float32)
++    if audio.ndim != 1 or not len(audio) or not np.isfinite(audio).all():
++        raise ValueError("Invalid output audio")
++    path = Path(path)
++    path.parent.mkdir(parents=True, exist_ok=True)
++    tmp = path.with_name(path.name + '.' + uuid.uuid4().hex + '.tmp')
++    with wave.open(str(tmp), "wb") as f:
++        f.setnchannels(1)
++        f.setsampwidth(2)
++        f.setframerate(SAMPLE_RATE)
++        f.writeframes(np.rint(np.clip(audio, -1, 32767/32768) * 32768).astype("<i2").tobytes())
++    tmp.replace(path)
++
++
++def finish_audio(audio):
++    """Mild level adjustment only: no denoising, EQ, pitch shift or fake room tone."""
++    audio = np.array(audio, dtype=np.float32, copy=True)
++    if audio.ndim != 1 or not len(audio) or not np.isfinite(audio).all():
++        raise ValueError("Synthesis returned invalid audio")
++    rms = float(np.sqrt(np.mean(audio ** 2)))
++    if rms < 1e-5:
++        raise ValueError("Synthesis returned silence")
++    gain_db = np.clip(-20.0 - 20 * np.log10(rms), -4, 4)
++    audio *= 10 ** (gain_db / 20)
++    peak = float(np.max(np.abs(audio)))
++    if peak > 10 ** (-1 / 20):
++        audio *= 10 ** (-1 / 20) / peak
++    n = min(int(SAMPLE_RATE * 0.003), len(audio) // 2)
++    if n:
++        ramp = np.linspace(0, 1, n, dtype=np.float32)
++        audio[:n] *= ramp
++        audio[-n:] *= ramp[::-1]
++    return audio
++
++
++def audio_stats(audio, text):
++    duration = len(audio) / SAMPLE_RATE
++    rms = float(np.sqrt(np.mean(audio ** 2)))
++    return {"audio_seconds": round(duration, 4),
++            "peak_dbfs": round(20 * np.log10(max(float(np.max(np.abs(audio))), 1e-12)), 3),
++            "rms_dbfs": round(20 * np.log10(max(rms, 1e-12)), 3),
++            "clipped_samples": int(np.count_nonzero(np.abs(audio) >= 0.999)),
++            "wpm_including_pauses": round(len(re.findall(r"[A-Za-z]+(?:'[A-Za-z]+)?", text)) * 60 / duration, 2)}
++
++
++class WavStream:
++    """Write one utterance at a time. A failed render leaves the old master intact."""
++    def __init__(self, path):
++        self.path = Path(path)
++        self.path.parent.mkdir(parents=True, exist_ok=True)
++        self.tmp = self.path.with_name(self.path.name + '.' + uuid.uuid4().hex + '.tmp')
++        self.frames = 0
++        self.square_sum = 0.0
++        self.peak = 0.0
++        self.clipped = 0
++
++    def __enter__(self):
++        self.writer = wave.open(str(self.tmp), 'wb')
++        self.writer.setparams((1, 2, SAMPLE_RATE, 0, 'NONE', 'not compressed'))
++        return self
++
++    def append(self, audio):
++        x = np.asarray(audio, dtype=np.float32)
++        if x.ndim != 1 or not np.isfinite(x).all():
++            raise ValueError('Invalid stream audio')
++        if not len(x):
++            return
++        if (self.frames + len(x)) * 2 > 0xffffffff - 36:
++            raise ValueError('PCM WAV exceeds RIFF limit; split the story')
++        pcm = np.rint(np.clip(x, -1, 32767/32768) * 32768).astype('<i2')
++        self.writer.writeframesraw(pcm.tobytes())
++        quantized = pcm.astype(np.float64) / 32768
++        self.square_sum += float(np.dot(quantized, quantized))
++        self.peak = max(self.peak, float(np.max(np.abs(quantized))))
++        self.clipped += int(np.count_nonzero(np.abs(quantized) >= .999))
++        self.frames += len(pcm)
++
++    def stats(self, text):
++        if not self.frames:
++            raise ValueError('Cannot measure an empty audio stream')
++        duration = self.frames / SAMPLE_RATE
++        return {'audio_seconds': round(duration, 4),
++                'peak_dbfs': round(20 * np.log10(max(self.peak, 1e-12)), 3),
++                'rms_dbfs': round(10 * np.log10(max(self.square_sum / self.frames, 1e-24)), 3),
++                'clipped_samples': self.clipped,
++                'wpm_including_pauses': round(len(re.findall(r"[A-Za-z]+(?:'[A-Za-z]+)?", text)) * 60 / duration, 2)}
++
++    def __exit__(self, exc_type, exc, tb):
++        self.writer.close()
++        if exc_type is None:
++            self.tmp.replace(self.path)
++        # On failure keep the partial .tmp for diagnosis, never replace the master.
++
++
++class CPUVoiceEngine:
++    """One loaded instance, serialized inference. Bound the caller's job queue too."""
++    def __init__(self, threads=1, config_path=CONFIG, model_path=MODEL, profile_dir=PROFILE_DIR,
++                 low_memory=True):
++        if threads < 1:
++            raise ValueError("threads must be positive")
++        import onnxruntime as ort
++        from kokoro_onnx import Kokoro
++        self.cfg = validate_config(read_json(config_path))
++        self.profile_dir = Path(profile_dir)
++        manifest = read_json(self.profile_dir / "manifest.json")
++        if manifest["format_version"] != 1:
++            raise ValueError("Unsupported voice profile format")
++        model_sha = file_hash(model_path)
++        if model_sha != manifest["model_sha256"]:
++            raise ValueError("The baked voices belong to another model; rebake")
++        if file_hash(self.profile_dir / "characters.npz") != manifest["profiles_sha256"]:
++            raise ValueError("Voice profile checksum mismatch")
++        for char, spec in self.cfg["characters"].items():
++            expected = get_voice_spec_label(spec)
++            if manifest["characters"].get(char, {}).get("source_voice") != expected:
++                raise ValueError(f"Voice assignment changed for {char}; run --bake")
++        options = ort.SessionOptions()
++        options.intra_op_num_threads = threads
++        options.inter_op_num_threads = 1
++        options.execution_mode = ort.ExecutionMode.ORT_SEQUENTIAL
++        options.graph_optimization_level = ort.GraphOptimizationLevel.ORT_ENABLE_ALL
++        options.log_severity_level = 3
++        if low_memory:
++            options.enable_cpu_mem_arena = False
++            options.enable_mem_pattern = False
++            options.add_session_config_entry('session.intra_op.allow_spinning', '0')
++            options.add_session_config_entry('session.inter_op.allow_spinning', '0')
++        self._render_lock = threading.Lock()
++        session = ort.InferenceSession(str(model_path), sess_options=options, providers=["CPUExecutionProvider"])
++        self.tts = Kokoro.from_session(session, str(self.profile_dir / "characters.npz"))
++        self.providers = session.get_providers()
++        self.runtime_identity = {"code": file_hash(__file__), "model": model_sha,
++                                 "voices": manifest["profiles_sha256"],
++                                 "kokoro_onnx": importlib.metadata.version("kokoro-onnx"),
++                                 "onnxruntime": ort.__version__,
++                                 "preprocessor": file_hash(ROOT / 'story_preprocessor.py'),
++                                 "phonemizer": importlib.metadata.version("phonemizer"),
++                                 "espeakng_loader": importlib.metadata.version("espeakng-loader")}
++
++    def render(self, text, character, emotion="neutral", cache_dir=None, **processing):
++        lock = getattr(self, '_render_lock', None)
++        if lock is None:  # Lightweight test doubles bypass __init__.
++            return self._render(text, character, emotion, cache_dir, **processing)
++        with lock:
++            return self._render(text, character, emotion, cache_dir, **processing)
++
++    def _render(self, text, character, emotion="neutral", cache_dir=None, *,
++                pronunciation_fixes=False, trim_edges=False, warmth=False, breath=False,
++                experimental_ew=False, stylized_laughter=False, max_chunk_chars=0):
++        if experimental_ew and not pronunciation_fixes:
++            raise ValueError("experimental_ew requires pronunciation_fixes=True")
++        if character not in self.cfg["characters"] or emotion not in self.cfg["emotions"]:
++            raise ValueError(f"Unknown character/emotion: {character}/{emotion}")
++        clean = normalize_text(text)
++        chunks = split_synthesis_text(clean, max_chunk_chars)
++        voice = self.cfg["characters"][character]
++        pacing = self.cfg["emotions"][emotion]
++        speed = float(np.clip(voice["speed"] * pacing["speed"], 0.5, 2))
++        signature = {"runtime": self.runtime_identity, "text": clean, "character": character,
++                     "emotion": emotion, "speed": speed, "pacing": pacing,
++                     "language": self.cfg["language"],
++                     "processing": {"pronunciation_fixes": bool(pronunciation_fixes),
++                                    "trim_edges": bool(trim_edges), "warmth": bool(warmth),
++                                    "breath": bool(breath),
++                                    "stylized_laughter": bool(stylized_laughter),
++                                    "experimental_ew": bool(experimental_ew),
++                                    "max_chunk_chars": max_chunk_chars}}
++        key = content_hash(signature)
++        wav = Path(cache_dir) / f"{key}.wav" if cache_dir else None
++        meta_path = wav.with_suffix(".json") if wav else None
++        if wav and wav.exists() and meta_path.exists():
++            try:
++                meta = read_json(meta_path)
++                if meta.get("key") == key and meta.get("wav_sha256") == file_hash(wav):
++                    cached = read_wav(wav)
++                    if len(cached) and meta.get('audio_seconds') == round(len(cached) / SAMPLE_RATE, 4):
++                        return cached, {**meta, "cache_hit": True, "generation_seconds": 0.0}
++            except (ValueError, OSError, EOFError, wave.Error, AttributeError):
++                pass  # Regenerate an incomplete or corrupt cache entry.
++        start = time.perf_counter()
++        parts, fixes, chunk_rows, offset = [], [], [], 0
++        for chunk_index, chunk in enumerate(chunks):
++            synthesis_input, is_phonemes, chunk_fixes = chunk, False, []
++            if pronunciation_fixes:
++                synthesis_input, is_phonemes, chunk_fixes = pronunciation_override(
++                    self.tts, chunk, self.cfg['language'], include_ew=experimental_ew,
++                    include_laughter=stylized_laughter)
++            part, sr = self.tts.create(synthesis_input, voice=character, speed=speed,
++                                      lang=self.cfg["language"], is_phonemes=is_phonemes,
++                                      trim=False, sentence_pause=0.0, clause_pause=0.0)
++            if sr != SAMPLE_RATE:
++                raise ValueError(f"Unexpected sample rate: {sr}")
++            part = np.asarray(part, dtype=np.float32)
++            if part.ndim != 1 or not len(part) or not np.isfinite(part).all() or np.max(np.abs(part)) < 1e-5:
++                raise ValueError('Invalid or silent synthesis chunk')
++            # Keep every sample at internal joins: no crossfade, noise or trimming.
++            parts.append(part)
++            chunk_rows.append({'text': chunk, 'start_sample': offset, 'end_sample': offset + len(part)})
++            offset += len(part)
++            fixes.extend(({**f, 'chunk_index': chunk_index} if len(chunks) > 1 else f) for f in chunk_fixes)
++        audio = parts[0] if len(parts) == 1 else np.concatenate(parts)
++        del parts
++        removed = {"head_samples": 0, "tail_samples": 0}
++        if trim_edges:
++            audio, removed = trim_outer_silence(audio)
++        if warmth:
++            audio = apply_analog_warmth(audio)
++        audio = finish_audio(audio)
++        if breath:
++            # Reproducible optional effect; it must not conceal a silent synthesis.
++            seed = int(key[:16], 16)
++            audio = np.concatenate([generate_breath(rng=np.random.default_rng(seed)), audio])
++        elapsed = time.perf_counter() - start
++        stats = audio_stats(audio, clean)
++        meta = {"key": key, "signature": signature, "spoken_text": clean,
++                "pronunciation_fixes": fixes, "edge_trim": removed,
++                "synthesis_chunks": chunk_rows, "chunk_count": len(chunks),
++                "chunk_sample_coordinates": "raw_concatenated_before_outer_trim_and_effects",
++                "generation_seconds": round(elapsed, 4),
++                "rtf": round(elapsed / stats["audio_seconds"], 4), "cache_hit": False,
++                "gap_ms": pacing["gap_ms"], **stats}
++        if wav:
++            write_wav(wav, audio)
++            meta["wav_sha256"] = file_hash(wav)
++            write_json(meta_path, meta)
++            audio = read_wav(wav)
++        return audio, meta
++
++
++def main():
++    parser = argparse.ArgumentParser(description=__doc__)
++    parser.add_argument("--bake", action="store_true", help="Bake voice profiles from config")
++    parser.add_argument("--preview", action="store_true", help="Render preview lines only")
++    parser.add_argument("--lines", help="Zero-based comma-separated story indices")
++    parser.add_argument("--text", help="Render single ad-hoc utterance")
++    parser.add_argument("--character", default="girl_narrator")
++    parser.add_argument("--emotion", default="neutral")
++    parser.add_argument("--story", type=Path, default=ROOT / "story.json")
++    parser.add_argument("--output-dir", type=Path, default=OUTPUT)
++    parser.add_argument("--threads", type=int, default=1)
++    parser.add_argument("--cpu-limit", type=int, default=0, help="Optional process CPU affinity cap")
++    parser.add_argument("--no-cache", action="store_true")
++    parser.add_argument("--max-chunk-chars", type=int, default=0,
++                        help="Opt-in text windows: 80..2000 chars; 0 keeps legacy behavior, not a RAM guarantee")
++    parser.add_argument("--fast-memory", action="store_true", help="Keep ORT memory arenas; higher RAM")
++    parser.add_argument("--warmth", action="store_true", help="Optional saturation, off by default")
++    parser.add_argument("--synthetic-breath", action="store_true", help="Optional noise effect, NOT real emotion")
++    parser.add_argument("--stylized-laughter", action="store_true", help="Experimental phonetic laughter")
++    args = parser.parse_args()
++    if sum([args.text is not None, args.preview, args.lines is not None]) > 1:
++        parser.error('Choose only one of --text, --preview or --lines')
++    if args.threads < 1:
++        parser.error('--threads must be positive')
++    if args.max_chunk_chars != 0 and not 80 <= args.max_chunk_chars <= 2000:
++        parser.error('--max-chunk-chars must be 0 or an integer from 80 to 2000')
++    if args.bake:
++        print(json.dumps(bake_profiles(), indent=2))
++        return
++    import psutil
++    process = psutil.Process()
++    if args.cpu_limit:
++        allowed = process.cpu_affinity()
++        if not 1 <= args.cpu_limit <= len(allowed):
++            parser.error("Invalid --cpu-limit")
++        process.cpu_affinity(allowed[:args.cpu_limit])
++
++    cfg = validate_config(read_json(CONFIG))
++    if args.text is not None:
++        raw_items = [{"sender_id": args.character, "emotion": args.emotion, "text": args.text}]
++        plan = preprocess_story(raw_items, cfg)
++        basename = "single"
++    else:
++        raw_story = read_json(args.story)
++        full_plan = preprocess_story(raw_story, cfg)
++        try:
++            selected_indices = [int(x) for x in args.lines.split(",")] if args.lines is not None else (
++                [i for i in PREVIEW_LINES if i < len(raw_story)] if args.preview else list(range(len(raw_story))))
++        except ValueError:
++            parser.error('--lines requires comma-separated integer indices')
++        if len(set(selected_indices)) != len(selected_indices) or any(i < 0 or i >= len(raw_story) for i in selected_indices):
++            parser.error("Story indices must be unique and in range")
++        plan = [full_plan[i] for i in selected_indices]
++        basename = "preview" if args.preview else ("selection" if args.lines else "final_voiceover")
++
++    started = time.perf_counter()
++    engine = CPUVoiceEngine(threads=args.threads, low_memory=not args.fast_memory)
++    load_seconds = time.perf_counter() - started
++    output = args.output_dir.resolve()
++    output.mkdir(parents=True, exist_ok=True)
++    cache_dir = None if args.no_cache else output / "cache"
++
++    dialog_rows = []
++    master_path = output / f'{basename}.wav'
++    timestamps_path = output / ('dialog_timestamps.json' if basename == 'final_voiceover'
++                                else f'{basename}_timestamps.json')
++    with WavStream(master_path) as master:
++        master.append(np.zeros(int(SAMPLE_RATE * .25), np.float32))
++        for item in plan:
++            idx, char, emotion = item['line_index'], item['sender_id'], item['emotion']
++            use_breath = args.synthetic_breath and item.get('needs_breath', False)
++            audio, meta = engine.render(
++                item['raw_text'], char, emotion, cache_dir=cache_dir,
++                pronunciation_fixes=True, trim_edges=True, warmth=args.warmth,
++                breath=use_breath, stylized_laughter=args.stylized_laughter,
++                max_chunk_chars=args.max_chunk_chars)
++            row = {
++                'line_index': idx, 'sender_id': char, 'display_name': item['display_name'],
++                'side': item['side'], 'emotion': emotion, 'text': item['raw_text'],
++                'start_ms': round(master.frames * 1000 / SAMPLE_RATE),
++                'end_ms': round((master.frames + len(audio)) * 1000 / SAMPLE_RATE),
++                **meta}
++            master.append(audio)
++            # Clean silence; never add random hiss as a substitute for naturalness.
++            master.append(np.zeros(round(SAMPLE_RATE * meta['gap_ms'] / 1000), np.float32))
++            dialog_rows.append(row)
++            print(f"line {idx:02d} {char:15s} / {emotion:8s} "
++                  f"{meta['audio_seconds']:.2f}s RTF={meta['rtf']:.3f} synthetic_breath={use_breath}", flush=True)
++    write_json(timestamps_path, dialog_rows)
++    cpu_audio_dir = output / 'cpu_audio'
++    cpu_audio_dir.mkdir(parents=True, exist_ok=True)
++    shutil.copyfile(master_path, cpu_audio_dir / f'{basename}_cpu.wav')
++    write_json(cpu_audio_dir / f'{basename}_cpu_timestamps.json', dialog_rows)
++
++    speech_seconds = sum(row["audio_seconds"] for row in dialog_rows)
++    generated_speech = sum(row["audio_seconds"] for row in dialog_rows if not row["cache_hit"])
++    generation = sum(row["generation_seconds"] for row in dialog_rows)
++    memory = process.memory_info()
++    report = {
++        "status": "rendered_requires_listening_review",
++        "emotion_control": cfg.get('emotion_control', 'pacing_only'),
++        "low_memory": not args.fast_memory,
++        "max_chunk_chars": args.max_chunk_chars,
++        "model_load_seconds": round(load_seconds, 3),
++        "generation_seconds": round(generation, 3),
++        "speech_seconds": round(speech_seconds, 3),
++        "master_seconds": round(master.frames / SAMPLE_RATE, 3),
++        "rtf_uncached": round(generation / generated_speech, 4) if generated_speech else None,
++        "total_seconds": round(time.perf_counter() - started, 3),
++        "rss_mib": round(memory.rss / 2**20, 2),
++        "peak_rss_mib": round(getattr(memory, "peak_wset", memory.rss) / 2**20, 2),
++        "providers": engine.providers,
++        "threads": args.threads,
++        "line_count": len(dialog_rows),
++        "master_wav": str(master_path),
++        "timestamps_json": str(timestamps_path),
++        "master_sha256": file_hash(master_path),
++        "audio_stats": master.stats(" ".join(r["spoken_text"] for r in dialog_rows))
++    }
++    write_json(output / f"{basename}_benchmark.json", report)
++    print(json.dumps(report, indent=2), flush=True)
++
++
++if __name__ == "__main__":
++    main()
++
+
+# 2026-09-22 00:12:52.192855
++y
+
+# 2026-09-22 00:13:12.763789
++/run ren "c:\Users\Redmi\Desktop\incubator\tts_to_YouTube\cpu_voice_engine.py" "voice_engine.py"
+
+# 2026-09-22 00:13:12.763789
++/run ren "c:\Users\Redmi\Desktop\incubator\tts_to_YouTube\cpu_voice_engine.py" "voice_engine.py"
+
+# 2026-09-22 00:13:15.639935
++y
+
+# 2026-09-22 00:13:17.221403
++/run cd "c:\Users\Redmi\Desktop\incubator\tts_to_YouTube"
+
+# 2026-09-22 00:13:17.221403
++/run cd "c:\Users\Redmi\Desktop\incubator\tts_to_YouTube"
+
+# 2026-09-22 00:13:24.795369
++y
+
+# 2026-09-22 00:13:24.799710
++/run for /f "delims=" %i in ('dir /b /a-d ^| findstr /v /i "voice_engine.py story_preprocessor.py story.json make_video.py"') do del "%i"
+
+# 2026-09-22 00:13:24.799710
++/run for /f "delims=" %i in ('dir /b /a-d ^| findstr /v /i "voice_engine.py story_preprocessor.py story.json make_video.py"') do del "%i"
+
+# 2026-09-22 00:13:26.600052
++y
